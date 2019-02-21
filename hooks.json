@@ -1827,10 +1827,10 @@
     "repositoryUrl": "https://github.com/CharlesStover/reactn",
     "importStatement": "import { useGlobal } from 'reactn';"
   },
-  {
-    "name": "useSt8",
+    {
+    "name": "useStore",
     "tags": ["State Management"],
-    "repositoryUrl": "https://github.com/mweststrate/use-st8",
-    "importStatement": "import { useSt8 } from 'use-st8';"
+    "repositoryUrl": "https://github.com/zerobias/effector",
+    "importStatement": "import { useStore } from 'effector-react';"
   }
 ]
